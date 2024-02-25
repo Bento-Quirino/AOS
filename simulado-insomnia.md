@@ -8,6 +8,7 @@ Usando o insomnia você deve:
 - Documentar os endpoints dessa API através do uso de `Markdown` usando um **PADRÃO DA EMPRESA** (veja abaixo)
 - Criar os requests e testá-los
 - Criar uma variável de ambiente para a `baseUrl`
+- Usaremos a [Pagarme API](https://docs.pagar.me/reference/introdu%C3%A7%C3%A3o-1)
 
 ### Padrão de documentação (exemplo)
 
