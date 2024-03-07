@@ -49,3 +49,4 @@ Caso haja sucesso:
 - **CRIAR PEDIDO COM MEIO DE PAGAMENTO CASH**
 - **OBTER PEDIDO**
 - **LISTAR PEDIDO**
+- Entregar em https://docs.google.com/spreadsheets/d/1jkSQX6hjFVTlsSpavkK7suILKtkxOKPOHfUP9sOwFa4/edit?usp=sharing
