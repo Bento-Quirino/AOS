@@ -42,3 +42,10 @@ Caso haja sucesso:
   }
 }
 ```
+
+## VOCÊ DEVE
+
+- Documentar usando insmonia
+- **CRIAR PEDIDO COM MEIO DE PAGAMENTO CASH**
+- **OBTER PEDIDO**
+- **LISTAR PEDIDO**
