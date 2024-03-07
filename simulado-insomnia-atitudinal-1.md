@@ -45,7 +45,7 @@ Caso haja sucesso:
 
 ## VOCÊ DEVE
 
-- Documentar usando insmonia
+- Documentar usando insmonia (DOCUMENTAR e CRIAR OS REQUESTS)
 - **CRIAR PEDIDO COM MEIO DE PAGAMENTO CASH**
 - **OBTER PEDIDO**
 - **LISTAR PEDIDO**
