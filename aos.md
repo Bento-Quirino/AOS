@@ -1,4 +1,4 @@
-# Prova de Banco
+# Prova de AOS
 O projeto deverá ser feito em grupos de 3 e deverá ser entregue um único projeto por grupo **3 INTEGRNTES, NÃO MAIS E NÃO MENOS QUE ISSO**
 
 ## O que deve ser feito
