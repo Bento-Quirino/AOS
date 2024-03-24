@@ -9,7 +9,7 @@ feito isso devem:
 - Documentar/testar o endpoint de **LISTAR UM USUÁRIO ESPECÍFICO** ()
 - Documentar/testar o endpoint de **CRIAR UM PEDIDO FEITO COM CASH** (1 ponto)
 - Documentar/arrumar o endpoint de **LISTAR PEDIDOS**
-- Use a chave de api `XYZJANJSDNASJ`
+- Use a chave de api `XYZJANJSDNASJ` no arquivo
 
 ## Deve ser entregue
 - Um arquivo json com o insmonia **COMPLETO**
