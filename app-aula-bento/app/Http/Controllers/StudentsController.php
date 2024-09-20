@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Chamada;
 use App\Models\Student;
 use Illuminate\Http\Request;
 
@@ -14,7 +15,17 @@ class StudentsController extends Controller
 
     public function show($id)
     {
-        return Student::findOrFail($id);
+        // Pega um estudante do banco de dados pelo id
+        $student = Student::findOrFail($id);
+
+        // Pega todas as chamadas com o id do estudante
+        $presencasEstudante = Chamada::where('student_id', $id)->get();
+
+        // Retorna as chamadas do aluno e o aluno
+        return response()->json([
+            "student" => $student,
+            "presencas" => $presencasEstudante
+        ], 200);
     }
 
     public function store(Request $request)
